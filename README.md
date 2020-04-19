@@ -11,4 +11,4 @@ This repository consists all of my work, done during this whole specialization.
 1. The content of all 6 courses is splitted in 6 directories at primary level.
 2. All the courses are further splitted into weeks, as well.
 
-- [Ravi]( https://raviprakashravi.cf/ )
+\- [_Ravi_]( https://raviprakashravi.cf/ )
