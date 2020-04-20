@@ -9,9 +9,9 @@ In this course, the main focus is centered around _collecting_ & _processing_ th
 > APIs
 
 These data files can be of many different types, like:
-* Flat files (.csv,.txt)
-* XML
-* JSON
+> Flat files (.csv,.txt)<br />
+> XML<br />
+> JSON
 
 Further, it also focuses onto **making data tidy** and **distributing** this data.<br />
 The syllabus of this course also includes making the _scripts_ for **data cleaning**.
