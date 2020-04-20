@@ -20,7 +20,7 @@ So, in order to achieve this easily, apply function is used.
 * Improves consistency by providing limited return type checks
 
 For better prectice, we can install the ```swirl``` package for this course (JHU) and can practice following:
-> lapply & sapply
+> lapply & sapply<br />
 > vapply & tapply
 
 <br />
