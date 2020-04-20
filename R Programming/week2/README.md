@@ -17,11 +17,14 @@ From this week, the actual coding poration starts. In order to go through the wh
 > Working with **Date** & **Time**
 
 <br />
-For better prectice, we can install the ```swirl``` package for this course (JHU) and can work on it.
+For better prectice, we can install the ```swirl``` package for this course (JHU) and can practice following:
+> Logic
+> Functions
+> Dates & Times
 
 [Assignment](https://github.com/ravi-prakash1907/Data-Science-in-R/blob/master/R%20Programming/week2/assignment.R)
 
-_For codes and other things, please visit [here](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/R%20Programming/week1)._<br />
+_For codes and other things, please visit [here](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/R%20Programming/week2)._<br />
 
 <hr />
 
