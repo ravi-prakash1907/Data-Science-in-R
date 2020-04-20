@@ -28,8 +28,8 @@ By the end of this week one becomes able to:
 <br />
 
 For better prectice, we can install the ```swirl``` package for this course (JHU) and can practice following:
-> Looking at Data
-> Simulation
+> Looking at Data<br />
+> Simulation<br />
 > Base Graphics
 
 <hr />

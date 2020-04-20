@@ -18,8 +18,8 @@ From this week, the actual coding poration starts. In order to go through the wh
 
 <br />
 For better prectice, we can install the ```swirl``` package for this course (JHU) and can practice following:
-> Logic
-> Functions
+> Logic<br />
+> Functions<br />
 > Dates & Times
 
 <br />
