@@ -33,8 +33,7 @@ Here, we are also taught regr. _how tos_ of:
 > * Summary and Subbsetting
 > * Vectorized operations etc..
 
-Few importants are:<br />
-```?<funName>```<br />
+Few important functions are:<br />
 ```c()```<br />
 ```<dataTypeName>()```<br />
 ```as.<dataType>()```<br />
@@ -47,6 +46,6 @@ _For codes and other things, please visit [here](https://github.com/ravi-prakash
 ### Instructor
 [**Roger D. Peng**](http://www.biostat.jhsph.edu/~rpeng/), who is an Associate Professor of **Biostatistics**, is one of the instructor in this course.
 
-<hr /><br /><br />
+<hr />
 
 [_Back to the Course Home_](../)
