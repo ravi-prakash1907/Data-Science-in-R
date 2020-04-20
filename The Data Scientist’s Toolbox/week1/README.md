@@ -1,4 +1,4 @@
-## The Data Scientist's Toolbox
+## For the Dummies
 
 This is the very first intro to the data science and the most frequent tools used by a data science.
 
