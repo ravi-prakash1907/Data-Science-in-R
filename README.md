@@ -7,6 +7,11 @@ All about the 'Data Science in R' specialization by **Johns Hopkins University**
 
 This repository consists all of my work, done during this whole specialization.
 
+### Certificate earned:
+![Certificate](Certificate.png)
+
+<hr />
+
 ### Separation
 1. The content of all 5 courses is splitted in five directories at primary level.<br />
     > 1. [The Data Scientist’s Toolbox](The%20Data%20Scientist’s%20Toolbox)
@@ -16,6 +21,8 @@ This repository consists all of my work, done during this whole specialization.
     > 5. [Reproducible Research](Reproducible%20Research)
 2. All the courses are further splitted into weeks, as well.
 3. The duration of every single course is of **4 weeks**
+
+<hr />
 
 ### Bibliography
 This course is really very good to learn the Data-Science from Scratch.<br />
