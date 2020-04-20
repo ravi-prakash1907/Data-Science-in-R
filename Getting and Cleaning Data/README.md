@@ -19,7 +19,7 @@ The syllabus of this course also includes making the _scripts_ for **data cleani
 ### Certificate earned:
 ![Certificate yet to be earned!](Certificate.png)
 
-<hr />
+<br />
 
 **Links to the NOTES:**
 * [Week 1](week1)
