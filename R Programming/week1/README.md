@@ -19,27 +19,27 @@ After many revisions, R arsian. Basically, in ```1991```, it was created in **Ne
 Now, but there's much more than this obviously, and on the, on CRAN, there are, right now there are about __*4,000 packages*__ that have been developed by users and programmers all around the world.<br />
 
 ### Datatypes
-> * Vectors & Lists
-> * Matrices
-> * Factors
-> * Lists
-> * Data Frames & Tables
+* Vectors & Lists
+* Matrices
+* Factors
+* Lists
+* Data Frames & Tables
 
 Here, we are also taught regr. _how tos_ of:
-> * Dealing with missing values
-> * Name attributes (for rows and columns)
-> * Reading _large_ tables
-> * Textual Data Formtas
-> * Summary and Subbsetting
-> * Vectorized operations etc..
+* Dealing with missing values
+* Name attributes (for rows and columns)
+* Reading _large_ tables
+* Textual Data Formtas
+* Summary and Subbsetting
+* Vectorized operations etc..
 
 Few important functions are:<br />
-```c()```<br />
-```<dataTypeName>()```<br />
-```as.<dataType>()```<br />
-```class()```<br />
-```summary()```<br />
-```dim()```<br />
+> ```c()```<br />
+> ```<dataTypeName>()```<br />
+> ```as.<dataType>()```<br />
+> ```class()```<br />
+> ```summary()```<br />
+> ```dim()```<br />
 
 _For codes and other things, please visit [here](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/R%20Programming/week1)._<br />
 

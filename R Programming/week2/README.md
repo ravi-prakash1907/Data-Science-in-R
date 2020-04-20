@@ -5,17 +5,19 @@ From this week, the actual coding poration starts. In order to go through the wh
 ### Concepts:
 
 > Control Statements
-> * Conditional
+> 1. Conditional
 >     - _if-else_ ```if(){} else{}```
-> * Loops
+> 2. Loops
 >     - _for loop_ ```for(i in 1:10)```
 >     - _while loop_ ```while()```
-> * ```repeat```, ```next``` & ```break```
+> 3. ```repeat```, ```next``` & ```break```
+> 
 > Function ```funName <- function(<params>)```<br />
 > Scoping rules and coding standered<br />
 > Working with **Date** & **Time**
 
-For better prectice, we can install the ```swirl``` package for this course (JHU) and can work on it.<br />
+<br />
+For better prectice, we can install the ```swirl``` package for this course (JHU) and can work on it.
 
 [Assignment](https://github.com/ravi-prakash1907/Data-Science-in-R/blob/master/R%20Programming/week2/assignment.R)
 
