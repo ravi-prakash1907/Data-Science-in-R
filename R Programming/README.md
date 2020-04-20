@@ -27,6 +27,6 @@ This book is also available on the [_Lulu_](http://www.lulu.com/shop/roger-peng/
 * [Week 3](week3)
 * [Week 4](week4)
 
-<br /><br />
+<hr />
 
 [_Back to Home_](../)

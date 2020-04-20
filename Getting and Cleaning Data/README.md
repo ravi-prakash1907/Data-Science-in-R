@@ -12,7 +12,7 @@ Links to the NOTES:
 * [Week 3](week3)
 * [Week 4](week4)
 
-<br /><br />
+<hr />
 
 [_Back to Home_](../)
 
