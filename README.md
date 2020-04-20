@@ -8,7 +8,7 @@ All about the 'Data Science in R' specialization by **Johns Hopkins University**
 This repository consists all of my work, done during this whole specialization.
 
 ### Certificate earned:
-![Certificate](Certificate.png)
+![Certificate yet to be earned!](Certificate.png)
 
 <hr />
 
