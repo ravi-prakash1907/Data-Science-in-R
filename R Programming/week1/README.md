@@ -41,6 +41,8 @@ Few important functions are:<br />
 > ```summary()```<br />
 > ```dim()```<br />
 
+<br />
+
 _For codes and other things, please visit [here](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/R%20Programming/week1)._<br />
 
 ### Instructor

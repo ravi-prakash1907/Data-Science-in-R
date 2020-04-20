@@ -10,19 +10,20 @@ Generally, it's pretty difficult to run a for loop on every sngle column of any 
 So, in order to achieve this easily, apply function is used.
 
 ### Varients of ```apply()```
-> ```lapply()``` -> apply on **List**
-> ```mapply()``` -> apply on **Matrix**
-> ```tapply()``` -> apply on **Tables**
+> ```lapply()``` -> apply on **List**<br />
+> ```mapply()``` -> apply on **Matrix**<br />
+> ```tapply()``` -> apply on **Tables**<br />
 > ```vapply()``` & ```sapply()``` -> apply on **Vectors**
 
-```vapply()``` is considered safer than ```sapply()``` because:
+**vapply()** is considered safer than **sapply()** because:
 * Slight speed improvement
 * Improves consistency by providing limited return type checks
 
-<br />
 For better prectice, we can install the ```swirl``` package for this course (JHU) and can practice following:
 > lapply & sapply
 > vapply & tapply
+
+<br />
 
 [Assignment](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/R%20Programming/week3/ProgrammingAssignment)
 
