@@ -5,6 +5,6 @@ This week discusses about:
 2. Questions to be answered in a data science project
 3. Simple defination and a brief introduction to the **Big Data**
 
-<br /><br />
+<hr />
 
 [_Back to the Course Home_](../)

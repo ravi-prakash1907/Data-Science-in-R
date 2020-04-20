@@ -10,10 +10,10 @@ Here we have discussed about the **GitHub** and tells the significance of the **
 2. A git Repository
 3. Version controle
     - it enables to revert back to any previous version of the project fron any later version.<br />
-    In this way, there is no fear to end up with a non working function
+    - In this way, there is no fear to end up with a non working function
 
 A GitHub repository is mainly useful in proper docuentation, storing and sharing any project work, in a better way.
 
-<br /><br />
+<hr />
 
 [_Back to the Course Home_](../)

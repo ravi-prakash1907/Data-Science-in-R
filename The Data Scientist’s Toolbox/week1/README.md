@@ -61,6 +61,6 @@ Data with various attributes of different types _(quantitative or qualitative)_
 3. Result Analysis
 4. Catering & Communication
 
-<br /><br />
+<hr />
 
 [_Back to the Course Home_](../)
