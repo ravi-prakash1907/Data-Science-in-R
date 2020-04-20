@@ -30,3 +30,6 @@ R-Studio is best in order to set up the working environment.<br />
     - ```version()```, ```sesionInfo()```, ```help(package = "<name>")```
 3. ```?functionName``` can be used for the summery of any function of the packages.
 
+<br /><br />
+
+[_Back to the Course Home_](../)

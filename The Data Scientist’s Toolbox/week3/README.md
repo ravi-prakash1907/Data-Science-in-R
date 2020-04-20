@@ -13,3 +13,7 @@ Here we have discussed about the **GitHub** and tells the significance of the **
     In this way, there is no fear to end up with a non working function
 
 A GitHub repository is mainly useful in proper docuentation, storing and sharing any project work, in a better way.
+
+<br /><br />
+
+[_Back to the Course Home_](../)

@@ -60,3 +60,7 @@ Data with various attributes of different types _(quantitative or qualitative)_
     - Data preprocessing/postprocessing
 3. Result Analysis
 4. Catering & Communication
+
+<br /><br />
+
+[_Back to the Course Home_](../)
