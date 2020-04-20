@@ -2,7 +2,7 @@
 To be updated Soon!<br /><br />
 
 ### Certificate earned:
-![Certificate](Certificate.png)
+![Certificate yet to be earned!](Certificate.png)
 
 <br />
 
