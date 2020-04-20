@@ -14,8 +14,6 @@ Here I've tried to keep all the things kinda notes, learnt during this course.
 ### Certificate earned:
 ![Certificate](Certificate.png)
 
-<br />
-
 A book, called [_R Programming for Data Science_](http://leanpub.com/rprogramming?utm_source=coursera&utm_medium=CourseraEmail&utm_campaign=Coursera) is also recommanded to learn the R language, from scratch.<br />
 This book is also available on the [_Lulu_](http://www.lulu.com/shop/roger-peng/r-programming-for-data-science/paperback/product-22280814.html).
 

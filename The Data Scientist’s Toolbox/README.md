@@ -10,7 +10,7 @@ The each separate week goes  upgrading the levels and by the end of the course, 
 
 <br />
 
-Links to the NOTES:
+**Links to the NOTES:**
 * [Week 1](week1)
 * [Week 2](week2)
 * [Week 3](week3)
