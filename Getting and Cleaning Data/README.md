@@ -13,7 +13,9 @@ These data files can be of many different types, like:
 > XML<br />
 > JSON
 
-Further, it also focuses onto **making data tidy** and **distributing** this data.<br />
+```getwd()``` & ```setwd()``` are used to find or switch the working directory.<br />
+
+Further, this week also focuses onto **making data tidy** and **distributing** this data.<br />
 The syllabus of this course also includes making the _scripts_ for **data cleaning**.
 
 ### Certificate earned:
