@@ -26,7 +26,7 @@ For a _tidy data_, we need to have a **metadeta** to describe it's columns. The 
 3. For looking how to read other files like Excel, XML & JSON, visit to the codes of this week (link below)
 
 **XPath** is one of the most important language that can prove to be very helpful while **reading XML files**.For understanding it better, have a look at [XML.pdf](XML.pdf)<br />
-For exploring even further, click to this _[link]_(https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/index.html)
+For exploring even further, click to this [_link_](https://www.stat.berkeley.edu/~statcur/Workshop2/Presentations/index.html)
 
 It's helpful in web scrapling.
 <br />
