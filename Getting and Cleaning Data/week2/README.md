@@ -59,7 +59,54 @@ Things required to use these APIs:<br />
 > Access token<br />
 > Access token secret
 
-_A sample script is given with the codes of this weeks code contents, that uses the **Twitter API**._
+_A sample script is given with the codes of this weeks code contents, that uses the **Twitter API**._<br />
+
+This Twitter API returns a JSON dat that is extracted using ```content()```<br />
+Visit [_twitter documentation_](https://developer.twitter.com/en/docs/) for URL and other info about getting different type of data.
+
+<hr />
+
+
+### Some other sources
+
+There are _R packages_ for different functionalities! These can be googled easily.<br /><br />
+
+Few handy functions:<br />
+1. ```file()``` = used to setup connection i.e. with file available **locally**
+2. ```url()``` = used to setup connection over the **internet**
+3. ```gzfile()``` & ```bzfile()``` = open conn. with zipped files **.gz** and **.bz2**
+4. ```?connections``` can give a far more info
+
+_REMEMBER to close the connection!!_<br />
+
+Few packages:<br />
+1. **forign** : to access data fro other programming language
+2. **RPostresSQL**
+3. **RMongo**
+
+Reading **images**<br />
+1. ```jpeg()```
+2. ```readbitmap()```
+3. ```png()```
+4. ```EBImage()``` : by Bioconductor
+
+Reading **audio**<br />
+1. ```tuneR()```
+2. ```seewave()```
+
+<br />
+
+_**httr** is one of the most important package_<br />
+Few of it's importent functions:<br />
+* GET
+* POST
+* PUT
+* DELETE
+
+This package is frequently used while data collection using various methods.<br />
+Authentications is also done (using user name & password).<br />
+Mordern APIs use authentication functions like **Oauth**<br />
+_httr_ works with Google, Facebook, Twitter, GitHub etc..<br >
 
 <br />
 
