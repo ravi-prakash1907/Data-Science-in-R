@@ -50,7 +50,7 @@ format(date, "%a-%b-%d")
 # "Sun Jan 03"
 ```
 
-**Dates** can be subtracted or added as _integer_. AS - <br />
+**Dates** can be subtracted or added as _integer_. As - <br />
 ```
 nextDay = date+1
 format(nextDay, "%a-%b-%d")
@@ -79,7 +79,7 @@ Others
 
 _This weeks ends by giving info about some data resources from where, the data can be easily collected._
 
-</br>
+<br />
 
 _For codes and other things, please visit [here](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/Getting%20and%20Cleaning%20Data/week4)._<br />
 
