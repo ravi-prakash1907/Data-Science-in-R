@@ -18,9 +18,9 @@ But, in case, if we want to just to change the existing name in a particular way
 5. **.** : zero or one element (any)
 6. **\_** : at least one occurance
 7. \<blah1\>**|**\<blah2\> : extracts all the lines having either of two ....  <>|<>|.....|<>
-8. \[r1 **-** r2\] : all elements b/w range r1 to r2
+8. _\[r1 **-** r2\]_ : all elements b/w range r1 to r2
 9. **(...+,,,+''')** : a sequence of _...,,,'''_
-10. \<blah1\>(someSeq)**{1, 5}**\<blah2\> : lines having min 1 or max 5 _(someSeq)_ occrance b/w 2 blahs
+10. _&lt;blah1&gt;(someSeq)**{1, 5}**&lt;blah2&gt;_ : lines having min 1 or max 5 _(someSeq)_ occrance b/w 2 blahs
 11. (someSeq) +**\1** : one more occurance of (someSeq) continuusly ... eg. _blah blah **blah blah**_ 
 
 [This video](https://www.coursera.org/learn/data-cleaning/lecture/QvbWt/regular-expressions-ii) of the course can be seen to cover regex better.
