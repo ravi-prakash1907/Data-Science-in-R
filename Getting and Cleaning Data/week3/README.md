@@ -1,3 +1,23 @@
+## Transformation the Datasets
+
+### Subsetting & Sorting
+
+
+
+### Summarizing the Data
+
+
+
+### Others 
+
+In transformation, basically the dataset is reshaped using sveral strategies including intoduction of new variables or attributes and merging of the datasets etc..
+
+
+
+<hr />
+
+### dplyr
+
 
 
 <br />
