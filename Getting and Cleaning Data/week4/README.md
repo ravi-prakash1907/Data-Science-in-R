@@ -83,6 +83,8 @@ _This weeks ends by giving info about some data resources from where, the data c
 
 _For codes and other things, please visit [here](https://github.com/ravi-prakash1907/Data-Science-in-R/tree/master/Getting%20and%20Cleaning%20Data/week4)._<br />
 
+The project of this week can be accessed at a separate repo i.e. [Getting-and-Cleaning-Data-Course-Project](https://github.com/ravi-prakash1907/Getting-and-Cleaning-Data-Course-Project) <br />
+
 <hr />
 
 [_Back to the Course Home_](../)
