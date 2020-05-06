@@ -19,7 +19,7 @@ Further, this week also focuses onto **making data tidy** and **distributing** t
 The syllabus of this course also includes making the _scripts_ for **data cleaning**.
 
 ### Certificate earned:
-![Certificate yet to be earned!](Certificate.png)
+![Certificate](Certificate.png)
 
 <br />
 
