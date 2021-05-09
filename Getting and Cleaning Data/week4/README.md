@@ -17,7 +17,7 @@ But, in case, if we want to just to change the existing name in a particular way
 4. **\*** : any num of elements
 5. **.** : zero or one element (any)
 6. **\_** : at least one occurance
-7. \<blah1\>**|**\<blah2\> : extracts all the lines having either of two ....  <>|<>|.....|<>
+7. \<blah1\>**\|**\<blah2\> : extracts all the lines having either of two ....  <>\|<>\|.....\|<>
 8. _\[r1 **-** r2\]_ : all elements b/w range r1 to r2
 9. **(...+,,,+''')** : a sequence of _...,,,'''_
 10. _&lt;blah1&gt;(someSeq)**{1, 5}**&lt;blah2&gt;_ : lines having min 1 or max 5 _(someSeq)_ occrance b/w 2 blahs
