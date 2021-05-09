@@ -7,8 +7,10 @@ All about the 'Data Science in R' specialization by **Johns Hopkins University**
 
 This repository consists all of my work, done during this whole specialization.
 
+<!--
 ### Certificate earned:
 ![Certificate yet to be earned!](Certificate.png)
+-->
 
 <hr />
 
@@ -18,7 +20,7 @@ This repository consists all of my work, done during this whole specialization.
     > 2. [R Programming](R%20Programming)
     > 3. [Getting and Cleaning Data](Getting%20and%20Cleaning%20Data)
     > 4. [Exploratory Data Analysis](Exploratory%20Data%20Analysis)
-    > 5. [Reproducible Research](Reproducible%20Research)
+<!--    > 5. [Reproducible Research](Reproducible%20Research)   -->  
 2. All the courses are further splitted into weeks, as well.
 3. The duration of every single course is of **4 weeks**
 
