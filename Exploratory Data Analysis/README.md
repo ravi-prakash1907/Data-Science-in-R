@@ -1,8 +1,10 @@
 ## About this Course
 To be updated Soon!<br /><br />
 
+<!--
 ### Certificate earned:
 ![Certificate yet to be earned!](Certificate.png)
+-->
 
 <br />
 
