@@ -1,5 +1,5 @@
 ## About this Course
-To be updated Soon!<br /><br />
+So far, it is updated for week-1 only!<br /><br />
 
 <!--
 ### Certificate earned:
@@ -10,9 +10,12 @@ To be updated Soon!<br /><br />
 
 Links to the NOTES:
 * [Week 1](week1)
+
+<!--
 * [Week 2](week2)
 * [Week 3](week3)
 * [Week 4](week4)
+-->
 
 <hr />
 
